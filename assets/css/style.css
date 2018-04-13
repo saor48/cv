@@ -20,11 +20,6 @@
 .ui-menu-color-downloadcv {
     background-color: #ff6600;
 }
-.section-column {
-    padding: 0 30px 30px;
-    float: none;
-    display: table-cell;
-}
 .row-table {
     display: table;
 }
@@ -34,6 +29,11 @@
     margin-top: 25px;
     margin-bottom: 40px;
 }
+.bg-color-personal-info{
+    background-color: #cc6633;
+    padding-bottom: 20px;
+}
+
 /*--------------------------------------Special pad------------*/
 h1,h2,h3,h4{
     margin: 0px;
@@ -164,4 +164,103 @@ footer .cv-pdf i:hover {
 }
 #footer-details {
     margin: 20px;
+}
+/*---------------------------three reasons------------------*/
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+.three-reasons-heading {
+   margin-bottom: 15px;
+}
+/*----------------------personal info---------------*/
+.personal-info-item {
+    background-color: #442211;
+    color: #ffffff;
+    padding: 15px;
+    display: block;
+    clear: both;
+}
+.personal-info-item.key, .personal-info-item.value {
+   padding-right: 8px;
+}
+.personal-info-item.key, .personal-info-item.value {
+   padding-right: 8px;
+}
+.personal-info-item .key p, .personal-info-item .value p {
+   margin: o;
+}
+.personal-info-item .key {
+    display: inline-block;
+    width: 30%;
+    margin-right: 21px;
+}
+.personal-info-item .value {
+    display: inline-block;
+    position: relative;
+    width: 60%;
+}
+.personal-info-item .key p {
+    font-weight: 700;
+}
+/*----------------------PROGRESS---------------*/
+.progress {
+    position: relative;
+    height: 25px;
+}
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25,25,25, 0.2);
+}
+.progress-section {
+    margin: 40px 20px;
+}
+/*----------------------Work---------------*/
+.timeline-item {
+    position: relative;
+    padding: 3em 2em 0em 4em;
+    color: #fafafa;
+    border-left: 1px solid black;
+}
+.timeline-item p {
+    margin: 0;
+    padding: 0;
+}
+.timeline-item::before {
+    content: attr(dates);
+    position: absolute;
+    display: block;
+    left: 2.5em;
+    top: 2em;
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
+    font-size: 0.8em;
+    margin: 0;
+    padding: 0;
+}
+.timeline-item::after {
+    content: "";
+    position: absolute;
+    display: block;
+    left:-6px;
+    top: 1.4em;
+    width: 12px;
+    height: 12px;
+    border-radius: 12px;
+    background-color: #fafafa;
+}
+.history-items {
+    margin-bottom: 30px;
+}
+/*----------------------media---------------*/
+@media(min-width:992px) {
+    .section-column {
+    padding: 0 30px 30px;
+    float: none;
+    display: table-cell;
+    }
 }
