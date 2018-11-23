@@ -8,6 +8,9 @@
 .bg-color-three-reasons{
     background-color: #ffff00;
 }
+.bg-color-contact{
+    background-color: #eeeeee;
+}
 .ui-menu-color-home {
     background-color: #2255ff;
 }
@@ -256,6 +259,25 @@ footer .cv-pdf i:hover {
 .history-items {
     margin-bottom: 30px;
 }
+/*----------------------Contact---------------*/
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    padding: 0; 
+}
+.center-form {
+    margin: 0 auto;
+    padding-top: 10px; 
+    max-width: 70%;
+}
+button[type="submit"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #e84610;
+    color: #fafafa;
+}
 /*----------------------media---------------*/
 @media(min-width:992px) {
     .section-column {
@@ -263,4 +285,10 @@ footer .cv-pdf i:hover {
     float: none;
     display: table-cell;
     }
+    .center-form {
+    margin: 0 auto;
+    min-height: 240px;
+    padding-top: 30px; 
+    max-width: 50%;
+}
 }
