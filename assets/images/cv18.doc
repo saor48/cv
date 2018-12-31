@@ -1,0 +1,89 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq0\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq0\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\fswiss\fprq0\fcharset0 Nimbus Sans L{\*\falt Arial};}{\f6\fmodern\fprq1\fcharset0 Courier New;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue128;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0 Default;}
+{\s1\sbasedon0\snext0\sb440\sa60\b\hich\af5\dbch\af5\afs34\ab\loch\f5\fs34\lang2057 Heading 1;}
+{\s2\sbasedon0\snext0\sb440\sa60\b\hich\af5\dbch\af5\afs28\ab\loch\f5\fs28\lang2057 Heading 2;}
+{\s3\sbasedon0\snext0\sb440\sa60\b\hich\af5\dbch\af5\afs24\ab\loch\f5\fs24\lang2057 Heading 3;}
+{\s4\sbasedon0\snext0\sb440\sa60\b\hich\af5\dbch\af5\afs24\ab\loch\f5\fs24\lang2057 Heading 4;}
+{\*\cs15\snext15{\*\updnprop5800}\up1\afs20\fs20 Endnote Characters;}
+{\*\cs16\snext16{\*\updnprop5800}\up1\afs20\fs20 Footnote Characters;}
+{\*\cs17\snext17\cf2\ul\ulc0\langfe255\lang255\lang255 Internet Link;}
+{\s18\sbasedon0\snext19\sb240\sa117\hich\af4\dbch\af4\afs28\loch\f4\fs28\lang0 Heading;}
+{\s19\sbasedon0\snext0\sb0\sa117\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang0 Text body;}
+{\s20\sbasedon19\snext0\sb0\sa117\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang0 List;}
+{\s21\sbasedon0\snext27\sb117\sa117\i\hich\af3\dbch\af3\afs24\ai\loch\f3\fs24\lang0 Caption;}
+{\s22\sbasedon0\snext0\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang0 Index;}
+{\s23\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Arrowhead List;}
+{\s24\sbasedon0\snext0\li1440\ri1440\lin1440\rin1440\fi0\sb0\sa117\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Block Text;}
+{\s25\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Box List;}
+{\s26\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Bullet List;}
+{\s27\sbasedon0\snext0\hich\af3\dbch\af3\afs20\loch\f3\fs20\lang2057 Footnote;}
+{\s28\sbasedon29\snext0\tx1584\sb0\sa0\b0\hich\af3\dbch\af3\afs24\ab0\loch\f3\fs24\lang2057 Chapter Heading;}
+{\s29\sbasedon1\snext0\tx431\sb0\sa0\b0\hich\af3\dbch\af3\afs24\ab0\loch\f3\fs24\lang2057 Numbered Heading 1;}
+{\s30\sbasedon0\snext0\li720\ri0\lin720\rin0\fi-427\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Contents 1;}
+{\s31\sbasedon0\snext0\li1440\ri0\lin1440\rin0\fi-427\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Contents 2;}
+{\s32\sbasedon0\snext0\li2160\ri0\lin2160\rin0\fi-427\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Contents 3;}
+{\s33\sbasedon0\snext0\li2880\ri0\lin2880\rin0\fi-427\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Contents 4;}
+{\s34\sbasedon0\snext0\qc\sb240\sa117\b\hich\af5\dbch\af5\afs32\ab\loch\f5\fs32\lang2057 Contents Header;}
+{\s35\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Dashed List;}
+{\s36\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Diamond List;}
+{\s37\sbasedon0\snext0\li288\ri0\lin288\rin0\fi-288\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Endnote;}
+{\s38\sbasedon0\snext0\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Endnote Text;}
+{\s39\sbasedon0\snext0\li288\ri0\lin288\rin0\fi-288\hich\af3\dbch\af3\afs20\loch\f3\fs20\lang2057 WW-Footnote;}
+{\s40\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Hand List;}
+{\s41\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Heart List;}
+{\s42\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Implies List;}
+{\s43\sbasedon44\snext0\li720\ri0\lin720\rin0\fi-427 Lower Case List;}
+{\s44\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Numbered List;}
+{\s45\sbasedon0\snext0\li720\ri0\lin720\rin0\fi-427\hich\af3\dbch\af3\afs24\loch\f3\fs24\lang2057 Lower Roman List;}
+{\s46\sbasedon2\snext0\tx431\sb0\sa0\b0\hich\af3\dbch\af3\afs24\ab0\loch\f3\fs24\lang2057 Numbered Heading 2;}
+{\s47\sbasedon3\snext0\tx431\sb0\sa0\b0\hich\af3\dbch\af3\afs24\ab0\loch\f3\fs24\lang2057 Numbered Heading 3;}
+{\s48\sbasedon0\snext0\hich\af6\dbch\af6\afs24\loch\f6\fs24\lang2057 Plain Text;}
+{\s49\sbasedon29\snext0\tx1584\sb0\sa0\b0\hich\af3\dbch\af3\afs24\ab0\loch\f3\fs24\lang2057 Section Heading;}
+{\s50\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Square List;}
+{\s51\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Star List;}
+{\s52\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Tick List;}
+{\s53\snext0\li720\ri0\lin720\rin0\fi-427\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Triangle List;}
+{\s54\sbasedon44\snext0\li720\ri0\lin720\rin0\fi-427 Upper Case List;}
+{\s55\sbasedon44\snext0\li720\ri0\lin720\rin0\fi-427 Upper Roman List;}
+}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern4150}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab0\deftab0\deftab0\deftab0\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab0\deftab0\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab0\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11905\pghsxn16837\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default;}
+{\pgdsc1\pgdscuse195\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt1 Endnote;}}
+\formshade{\*\pgdscno0}\paperh16837\paperw11905\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11905\pghsxn16837\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnar
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\afs56\rtlch \ltrch\loch\fs56\lang0
+\tab \tab \tab CV - }{\afs48\rtlch \ltrch\loch\fs48\lang0
+Saor Shannon}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+\line }{\afs28\rtlch \ltrch\loch\fs28\lang0
+Nationality: Irish. \tab \tab \tab Email: }{{\field{\*\fldinst HYPERLINK "mailto:saor@ezspeak.eu" }{\fldrslt \cf2\ul\ulc0\langfe255\lang255\lang255\rtlch \ltrch\loch\lang0
+saor48@gmail.com}{\afs28\rtlch \ltrch\loch\fs28\lang0
+}}\line Skype: saor11\tab \tab \tab Mobile: 00353 851301530}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\afs28\rtlch \ltrch\loch\fs28\lang0
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+\line }{\b\ab\rtlch \ltrch\loch\lang0
+Work Experience:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\b\ab\rtlch \ltrch\loch\lang0
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+2018 Full Stack Developer Course, Code Institute Ireland.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+2017 Truck driver and warehouse, Class E obtained. Dublin.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+2016 Warehouseman  and Truck driver, Munich.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+2015 Truck driver course, Ireland \'96 Class C, ADR and Forklift\line 2009-14 Tefl Teacher, Malaga, Spain.\line 2008\line aug-dec Tefl teacher, Madrid, Spain.\line jan-jul Construction, Kilkenny.\line 2007\line aug-dec Tefl Teacher, China.\line jan-jun Site Clerk, Tricastle Construction,Kilkenny\line 2006 \line sept-dec Tefl Teacher, Istanbul, Turkey\line jan-may Site Clerk, McNamara Construction, Kilkenny.\line 2005 Tefl Teacher; Kilkenny School of English\line 2004 Catalogue distributor and Painter\line 2003 Tefl Teacher; Freelance; Ulm, Germany\line 01-02 Painter; Athlone\line 98-00 Tefl Teacher; Monterrey and Cancun, Mexico\line 95-97 Painter; USA\line 93-94 Tefl Teacher; Private classes Madrid, Spain\line 87-92 Technician and Supervisor; Alcatel, London.\line \line }{\b\ab\rtlch \ltrch\loch\lang0
+Qualifications:}{\rtlch \ltrch\loch\lang0
+\line Driving Licences; B, C, E.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+Diploma Educational Psychology, Alison.com, 2014.\line TEFL Certificate Canterbury English, Madrid, 2008\line B.Eng (Electronics) NIHE Limerick,Ireland.\line \line }{\b\ab\rtlch \ltrch\loch\lang0
+Languages:}{\rtlch \ltrch\loch\lang0
+\line English; native speaker\line Spanish; fluent\line German; intermediate A2-B1}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang0
+French; A2}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af3\dbch\af3\afs24\cf0\langfe2052\lang1081\loch\f3\fs24\lang0\sl240\slmult1\ltrpar{\rtlch \ltrch\loch\lang6153
+}
+\par }
